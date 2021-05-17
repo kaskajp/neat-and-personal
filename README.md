@@ -2,6 +2,8 @@
 
 Starter Template for **N**etlify CMS, **E**leventy, **A**lphine JS & **T**ailwind CSS
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf406586-9632-4e11-aa41-ac102bfe2dd6/deploy-status)](https://app.netlify.com/sites/sleepy-davinci-51f7f8/deploys)
+
 ## Live Demo
 
 [https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
